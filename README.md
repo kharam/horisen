@@ -1,5 +1,12 @@
 # 01 HTML CSS Git: Code Refactor
 
+## todo list
+- [ ] Make HTML semantics
+- [ ] HTML follows logical structure
+- [ ] Image with `alt` tag
+- [ ] Heading with sequential order
+- [ ] Descriptive title
+
 ## Your Task
 
 **Note**: Be sure to review the [Homework Guide](../04-Important/Homework-Guide/README.md) and the [Good README Guide](../04-Important/Good-README-Guide/README.md) before you start working on this assignment!

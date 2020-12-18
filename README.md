@@ -3,7 +3,7 @@
 ## todo list
 - [ ] Make HTML semantics
 - [ ] HTML follows logical structure
-- [ ] Image with `alt` tag
+- [*] Image with `alt` tag
 - [ ] Heading with sequential order
 - [ ] Descriptive title
 
